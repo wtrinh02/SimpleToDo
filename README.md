@@ -4,7 +4,7 @@
 
 Submitted by: **Wesley Trinh**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning about Android Studio was really fun. However, I don't know if I'll remember everything I've learned right away. After a few projects, everything will definitely run more smoothly.
 
 ## License
 
